@@ -8,8 +8,10 @@ TBD
 <!-- Yeonho Yoo is a Ph. D student, majoring in Computer Science and software engineering at Korea University (He starts Ph. D course from Septempber 2021). His advisor is professor Chuck Yoo who leads Operating systems lab at Korea University. Yeonho Yoo has finished research internship with Networking Research Group at Microsoft Research Asia (From October 2022 to April 2023). He received Master degree of computer science at Korea University (October 2022). His research interests are Software-based networking, Network virtualization, Network management with machine learning, Datacenter networking, Distributed deep learning, Edge networking, and Blockchain. -->
 </p>
 
+---
+layout: page
 title: Education
-
+---
 Celeste is a lightweight Jekyll theme that features a minimalist, content-first design. It places your content center stage and lets your readers view them in a clutter-free environment without visual distractions. It is based on [Poole](https://github.com/poole/poole), the Jekyll butler, by [@mdo](https://twitter.com/mdo).
 
 In addition to using Poole as its foundation, Celeste is also built using the following open-source projects:
